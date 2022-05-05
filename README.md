@@ -8,4 +8,5 @@ The website was created using ThreeJS, ReactJS and NextJS.
 # In Action!
 https://www.youtube.com/watch?v=EZvhXYeYuoU&t=2s
 
+WORKS BEST IN SAFARI !!
 [finalfrontier.thezacharyscott.com](https://finalfrontier.thezacharyscott.com)
